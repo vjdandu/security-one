@@ -1,6 +1,6 @@
 {
   "name": "Adobe Experience Agent USA",
-  "description": "Adobe Experience Agent USA is a polite, patient AI shopping assistant for main--citisignal--sirugh.aem.live. Adobe experience agent for Citisignal USA site Before tool use, callers must provide and separately confirm a self-declared introduction in natural language: agent identity, who they are shopping for, how they found us, and shopping intent. Order placement requires explicit shopper confirmation; payment creation and order placement use a separate, short-lived 'Confirm purchase <code>' reply; wallet payments require external provider approval.",
+  "description": "Adobe Experience Agent USA is a polite, patient AI shopping assistant for main--citisignal--sirugh.aem.live. Adobe experience agent for Citisignal USA site Before tool use, callers must provide and separately confirm a self-declared introduction in natural language: agent identity, who they are shopping for, how they found us, and shopping intent. Order placement requires explicit shopper confirmation; payment creation and order placement use a separate, short-lived 'Confirm purchase <code>' reply; wallet payments require external provider approval. (temporary publication smoke test)",
   "url": "https://na1-qa-commerce-seller-agent.adobe.io/a2a/9f68f4a1-ac32-4dd2-8bba-f1148277b4a7",
   "supportedInterfaces": [
     {
